@@ -1,3 +1,19 @@
 header{
     display: flex;
+    text-align: center;
+    width: auto;
+}
+nav ul {
+    display: flex;
+    margin-left: 400px;
+}
+nav ul li {
+    margin: 15px;
+    list-style: none;
+}
+nav ul li a {
+    text-decoration: none;
+}
+main section{
+    front: size 15P;
 }
